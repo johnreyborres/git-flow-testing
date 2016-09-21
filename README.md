@@ -1,1 +1,2 @@
-# This is a sample application for git-flow workflow.
+#Git-flow Project
+ This is a sample application for git-flow workflow.
