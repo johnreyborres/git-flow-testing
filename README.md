@@ -1,2 +1,2 @@
-# git-flow-testing
-This is a git-flow-testing
+#Git-flow Project
+ This is a sample application for git-flow workflow.
